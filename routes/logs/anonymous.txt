@@ -1,0 +1,632 @@
+Sat Oct 15 2016 18:28:20 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Sat Oct 15 2016 18:28:21 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Sat Oct 15 2016 18:28:24 GMT-0700 (Pacific Daylight Time) || anonymous || Action: signin
+Sat Oct 15 2016 18:28:25 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Sat Oct 15 2016 18:28:34 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Validate signin for user :naruto@gmail.com
+Sat Oct 15 2016 18:42:21 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Sat Oct 15 2016 18:42:22 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Sat Oct 15 2016 18:42:23 GMT-0700 (Pacific Daylight Time) || anonymous || Action: signin
+Sat Oct 15 2016 18:42:24 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Sat Oct 15 2016 18:42:32 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Validate signin for user :undefined
+Sat Oct 15 2016 18:42:37 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Validate signin for user :undefined
+Sat Oct 15 2016 18:44:31 GMT-0700 (Pacific Daylight Time) || anonymous || Action: signin
+Sat Oct 15 2016 18:44:33 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Sat Oct 15 2016 18:44:37 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Validate signin for user :undefined
+Sat Oct 15 2016 18:44:47 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Validate signin for user :undefined
+Sat Oct 15 2016 18:45:19 GMT-0700 (Pacific Daylight Time) || anonymous || Action: signin
+Sat Oct 15 2016 18:45:20 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Sat Oct 15 2016 18:45:30 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Validate signin for user :naruto@gmail.com
+Sat Oct 15 2016 18:45:33 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Sat Oct 15 2016 18:45:33 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Sat Oct 15 2016 18:45:35 GMT-0700 (Pacific Daylight Time) || anonymous || Action: signin
+Sat Oct 15 2016 18:45:36 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Sat Oct 15 2016 18:45:45 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Validate signin for user :naruto@gmail.com
+Sat Oct 15 2016 18:46:27 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loading register page
+Sat Oct 15 2016 20:13:43 GMT-0700 (Pacific Daylight Time) || anonymous || Action: signin
+Sat Oct 15 2016 20:13:44 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Sat Oct 15 2016 20:13:54 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Validate signin for user :naruto@gmail.com
+Sat Oct 15 2016 20:14:09 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Sat Oct 15 2016 20:14:10 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Sat Oct 15 2016 20:14:13 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Sat Oct 15 2016 20:14:13 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Sat Oct 15 2016 20:14:22 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Search the itemname :undefined
+Sat Oct 15 2016 20:14:23 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Get the item with item id :1
+Sat Oct 15 2016 20:15:59 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Search the itemname :undefined
+Sat Oct 15 2016 20:16:12 GMT-0700 (Pacific Daylight Time) || anonymous || Action: signin
+Sat Oct 15 2016 20:16:13 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Sat Oct 15 2016 20:16:22 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Validate signin for user :naruto@gmail.com
+Sat Oct 15 2016 20:58:24 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Sat Oct 15 2016 20:58:25 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Sat Oct 15 2016 20:58:27 GMT-0700 (Pacific Daylight Time) || anonymous || Action: signin
+Sat Oct 15 2016 20:58:27 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Sat Oct 15 2016 20:58:37 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Validate signin for user :emma@gmail.com
+Sun Oct 16 2016 03:00:13 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Search the itemname :undefined
+Sun Oct 16 2016 03:02:18 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Confirm the cart before pay
+Sun Oct 16 2016 03:02:53 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Confirm the cart before pay
+Sun Oct 16 2016 03:03:37 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Get my collection data
+Sun Oct 16 2016 03:03:55 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Search the itemname :undefined
+Sun Oct 16 2016 03:04:27 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Search the itemname :moto
+Sun Oct 16 2016 03:05:02 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Search the itemname :moto
+Sun Oct 16 2016 03:07:02 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Get the item with item id :1
+Sun Oct 16 2016 03:07:50 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Search the itemname :moto
+Sun Oct 16 2016 03:08:44 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Sun Oct 16 2016 03:09:26 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Sun Oct 16 2016 03:10:14 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Get account details of user :undefined
+Sun Oct 16 2016 03:13:11 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Get account details of user :undefined
+Sun Oct 16 2016 03:13:27 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Get account details of user :undefined
+Sun Oct 16 2016 03:13:39 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Get account details of user :undefined
+Sun Oct 16 2016 03:17:24 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Confirm the cart before pay
+Sun Oct 16 2016 03:17:58 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Confirm the cart before pay
+Sun Oct 16 2016 03:20:02 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Search the itemname :undefined
+Sun Oct 16 2016 03:20:31 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Search the itemname :samsung
+Sun Oct 16 2016 03:20:48 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Get the item with item id :5
+Sun Oct 16 2016 03:23:45 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Search the itemname :undefined
+Sun Oct 16 2016 03:25:10 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Search the itemname :nike
+Sun Oct 16 2016 03:27:55 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Search the itemname :undefined
+Sun Oct 16 2016 03:28:00 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Search the itemname :nike
+Sun Oct 16 2016 03:28:04 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Search the itemname :samsung
+Sun Oct 16 2016 03:28:16 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Get the item with item id :1
+Sun Oct 16 2016 03:28:23 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Get the item with item id :5
+Sun Oct 16 2016 03:28:38 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Search the itemname :undefined
+Sun Oct 16 2016 03:29:43 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Search the itemname :nike
+Sun Oct 16 2016 03:29:49 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Search the itemname :nike
+Sun Oct 16 2016 03:30:30 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Search the itemname :samsung
+Sun Oct 16 2016 03:30:57 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Get the item with item id :1
+Sun Oct 16 2016 03:31:21 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Get the item with item id :5
+Sun Oct 16 2016 18:53:46 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Search the itemname :undefined
+Sun Oct 16 2016 18:53:59 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Search the itemname :nike
+Mon Oct 17 2016 15:46:09 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Mon Oct 17 2016 15:46:10 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Mon Oct 17 2016 15:46:14 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Search the itemname :undefined
+Mon Oct 17 2016 15:46:16 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Search the itemname :list-all
+Mon Oct 17 2016 15:46:19 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loading register page
+Mon Oct 17 2016 15:46:48 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Register new useryashas
+Mon Oct 17 2016 15:46:52 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Register new useryashas
+Mon Oct 17 2016 22:31:49 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Mon Oct 17 2016 22:31:49 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Mon Oct 17 2016 22:31:55 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loading register page
+Mon Oct 17 2016 22:32:30 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Register new useryashas
+Mon Oct 17 2016 22:51:12 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loading register page
+Mon Oct 17 2016 22:51:37 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Register new useryashas
+Mon Oct 17 2016 22:58:05 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loading register page
+Mon Oct 17 2016 22:58:46 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Register new useryashas
+Mon Oct 17 2016 23:00:31 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loading register page
+Mon Oct 17 2016 23:01:00 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Register new useryashas
+Mon Oct 17 2016 23:14:02 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loading register page
+Mon Oct 17 2016 23:14:33 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Register new useryashas
+Mon Oct 17 2016 23:21:27 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loading register page
+Mon Oct 17 2016 23:22:18 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Register new useryashas
+Mon Oct 17 2016 23:24:56 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loading register page
+Mon Oct 17 2016 23:26:00 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loading register page
+Mon Oct 17 2016 23:26:40 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Register new useryashas
+Mon Oct 17 2016 23:28:50 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loading register page
+Mon Oct 17 2016 23:29:10 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Register new useryashas
+Mon Oct 17 2016 23:29:46 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loading register page
+Mon Oct 17 2016 23:30:17 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Register new useryashas
+Mon Oct 17 2016 23:31:45 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loading register page
+Mon Oct 17 2016 23:32:07 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Register new useryashas
+Mon Oct 17 2016 23:34:48 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loading register page
+Mon Oct 17 2016 23:35:14 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Register new useryashas
+Mon Oct 17 2016 23:38:36 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loading register page
+Mon Oct 17 2016 23:39:06 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Register new useryashas
+Mon Oct 17 2016 23:39:46 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loading register page
+Mon Oct 17 2016 23:40:07 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Register new useryashas
+Mon Oct 17 2016 23:40:51 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loading register page
+Mon Oct 17 2016 23:41:31 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Register new useryashas
+Mon Oct 17 2016 23:42:00 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loading register page
+Mon Oct 17 2016 23:42:26 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Register new useryashas
+Mon Oct 17 2016 23:52:34 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Register new useryashas
+Tue Oct 18 2016 00:26:44 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Tue Oct 18 2016 00:26:44 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Tue Oct 18 2016 00:28:41 GMT-0700 (Pacific Daylight Time) || anonymous || Action: signin
+Tue Oct 18 2016 00:28:42 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Tue Oct 18 2016 00:28:57 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Validate signin for user :yash@gmail.com
+Tue Oct 18 2016 00:29:33 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Validate signin for user :yash@gmail.com
+Tue Oct 18 2016 00:29:43 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Validate signin for user :yash@gmail.com
+Tue Oct 18 2016 00:30:27 GMT-0700 (Pacific Daylight Time) || anonymous || Action: signin
+Tue Oct 18 2016 00:30:28 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Tue Oct 18 2016 00:30:36 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Validate signin for user :yash@gmail.com
+Tue Oct 18 2016 00:30:43 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Validate signin for user :yash@gmail.com
+Tue Oct 18 2016 00:30:57 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Validate signin for user :yash@gmail.com
+Tue Oct 18 2016 00:31:02 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Validate signin for user :yash@gmail.com
+Tue Oct 18 2016 00:32:36 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Validate signin for user :yash@gmail.com
+Tue Oct 18 2016 00:32:57 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Validate signin for user :yash@gmail.com
+Tue Oct 18 2016 00:33:02 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Validate signin for user :yash@gmail.com
+Tue Oct 18 2016 00:48:38 GMT-0700 (Pacific Daylight Time) || anonymous || Action: signin
+Tue Oct 18 2016 00:48:39 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Tue Oct 18 2016 00:48:40 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loading register page
+Tue Oct 18 2016 00:49:16 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Register new userkeerthi
+Tue Oct 18 2016 00:54:43 GMT-0700 (Pacific Daylight Time) || anonymous || Action: signin
+Tue Oct 18 2016 00:54:43 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Tue Oct 18 2016 00:54:45 GMT-0700 (Pacific Daylight Time) || anonymous || Action: signin
+Tue Oct 18 2016 00:54:45 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Tue Oct 18 2016 00:55:11 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Validate signin for user :yash@gmail.com
+Tue Oct 18 2016 00:55:17 GMT-0700 (Pacific Daylight Time) || anonymous || Action: signin
+Tue Oct 18 2016 00:55:18 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Tue Oct 18 2016 00:55:28 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Validate signin for user :yash@gmail.com
+Tue Oct 18 2016 00:56:42 GMT-0700 (Pacific Daylight Time) || anonymous || Action: signin
+Tue Oct 18 2016 00:56:42 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Tue Oct 18 2016 00:56:57 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Validate signin for user :yash@gmail.com
+Tue Oct 18 2016 00:57:07 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Tue Oct 18 2016 00:57:07 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Tue Oct 18 2016 00:57:24 GMT-0700 (Pacific Daylight Time) || anonymous || Action: signin
+Tue Oct 18 2016 00:57:24 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Tue Oct 18 2016 01:00:34 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Validate signin for user :yash@gmail.com
+Tue Oct 18 2016 01:00:44 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Tue Oct 18 2016 01:00:44 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Wed Oct 19 2016 16:00:39 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Wed Oct 19 2016 16:00:40 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Wed Oct 19 2016 16:00:42 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loading register page
+Wed Oct 19 2016 16:01:32 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Register new userYashas
+Wed Oct 19 2016 16:01:41 GMT-0700 (Pacific Daylight Time) || anonymous || Action: signin
+Wed Oct 19 2016 16:01:42 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Wed Oct 19 2016 16:01:53 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Validate signin for user :yash@gmail.com
+Wed Oct 19 2016 17:00:25 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Wed Oct 19 2016 17:00:25 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Wed Oct 19 2016 17:04:45 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loading register page
+Wed Oct 19 2016 17:05:24 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Register new useraysgd
+Wed Oct 19 2016 17:05:26 GMT-0700 (Pacific Daylight Time) || anonymous || Action: signin
+Wed Oct 19 2016 17:05:27 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Wed Oct 19 2016 17:05:53 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loading register page
+Wed Oct 19 2016 17:09:30 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loading register page
+Wed Oct 19 2016 17:11:09 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loading register page
+Wed Oct 19 2016 17:11:34 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Register new useryashas
+Sat Oct 22 2016 23:02:11 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Sat Oct 22 2016 23:02:13 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Sat Oct 22 2016 23:02:15 GMT-0700 (Pacific Daylight Time) || anonymous || Action: signin
+Sat Oct 22 2016 23:02:15 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Sat Oct 22 2016 23:02:25 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Validate signin for user :yash@gmail.com
+Sun Oct 23 2016 01:50:36 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Sun Oct 23 2016 01:50:37 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Sun Oct 23 2016 01:50:43 GMT-0700 (Pacific Daylight Time) || anonymous || Action: signin
+Sun Oct 23 2016 01:50:43 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Sun Oct 23 2016 01:50:52 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loading register page
+Sun Oct 23 2016 01:51:19 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Register new userEmma
+Sun Oct 23 2016 01:51:29 GMT-0700 (Pacific Daylight Time) || anonymous || Action: signin
+Sun Oct 23 2016 01:51:29 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Sun Oct 23 2016 01:51:41 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Validate signin for user :emma@gmail.com
+Sun Oct 23 2016 01:54:39 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Sun Oct 23 2016 01:54:39 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Sun Oct 23 2016 01:54:42 GMT-0700 (Pacific Daylight Time) || anonymous || Action: signin
+Sun Oct 23 2016 01:54:42 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Sun Oct 23 2016 01:54:51 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Validate signin for user :emma@gmail.com
+Sun Oct 23 2016 01:55:43 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Sun Oct 23 2016 01:55:44 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Sun Oct 23 2016 01:55:45 GMT-0700 (Pacific Daylight Time) || anonymous || Action: signin
+Sun Oct 23 2016 01:55:46 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Sun Oct 23 2016 01:55:54 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Validate signin for user :emma@gmail.com
+Sun Oct 23 2016 01:57:21 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Sun Oct 23 2016 01:57:22 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Sun Oct 23 2016 01:57:23 GMT-0700 (Pacific Daylight Time) || anonymous || Action: signin
+Sun Oct 23 2016 01:57:24 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Sun Oct 23 2016 01:57:32 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Validate signin for user :emma@gmail.com
+Sun Oct 23 2016 01:58:18 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Sun Oct 23 2016 01:58:19 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Sun Oct 23 2016 01:58:20 GMT-0700 (Pacific Daylight Time) || anonymous || Action: signin
+Sun Oct 23 2016 01:58:20 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Sun Oct 23 2016 01:58:29 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Validate signin for user :emma@gmail.com
+Sun Oct 23 2016 02:01:50 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Sun Oct 23 2016 02:01:51 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Sun Oct 23 2016 02:01:55 GMT-0700 (Pacific Daylight Time) || anonymous || Action: signin
+Sun Oct 23 2016 02:01:55 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Sun Oct 23 2016 02:02:03 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Validate signin for user :emma@gmail.com
+Sun Oct 23 2016 02:09:42 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Sun Oct 23 2016 02:09:43 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Sun Oct 23 2016 02:09:44 GMT-0700 (Pacific Daylight Time) || anonymous || Action: signin
+Sun Oct 23 2016 02:09:45 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Sun Oct 23 2016 02:09:56 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Validate signin for user :email@gmail.com
+Sun Oct 23 2016 02:10:06 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Validate signin for user :emma@gmail.com
+Sun Oct 23 2016 02:11:20 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Sun Oct 23 2016 02:11:20 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Sun Oct 23 2016 02:11:27 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Search the itemname :undefined
+Sun Oct 23 2016 02:12:17 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Sun Oct 23 2016 02:12:18 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Sun Oct 23 2016 02:12:24 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Search the itemname :undefined
+Sun Oct 23 2016 02:22:48 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Sun Oct 23 2016 02:22:49 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Sun Oct 23 2016 02:22:54 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Search the itemname :undefined
+Sun Oct 23 2016 02:23:30 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Search the itemname :Sam
+Sun Oct 23 2016 02:24:07 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Sun Oct 23 2016 02:24:07 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Sun Oct 23 2016 02:24:07 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Search the itemname :default
+Sun Oct 23 2016 02:28:27 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Sun Oct 23 2016 02:28:27 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Sun Oct 23 2016 02:28:28 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Sun Oct 23 2016 02:28:31 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Search the itemname :undefined
+Sun Oct 23 2016 02:31:35 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Sun Oct 23 2016 02:31:35 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Sun Oct 23 2016 02:31:36 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Sun Oct 23 2016 02:31:44 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Search the itemname :undefined
+Sun Oct 23 2016 02:31:53 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Search the itemname :new
+Sun Oct 23 2016 02:31:55 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Search the itemname :sam
+Sun Oct 23 2016 02:31:57 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Search the itemname :Sam
+Sun Oct 23 2016 02:32:16 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Sun Oct 23 2016 02:32:17 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Sun Oct 23 2016 02:32:17 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Search the itemname :default
+Sun Oct 23 2016 02:32:27 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Search the itemname :sam
+Sun Oct 23 2016 02:35:18 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Search the itemname :Sam
+Sun Oct 23 2016 02:39:00 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Sun Oct 23 2016 02:39:01 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Sun Oct 23 2016 02:39:01 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Sun Oct 23 2016 02:39:05 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Search the itemname :undefined
+Sun Oct 23 2016 02:39:12 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Search the itemname :Sam
+Sun Oct 23 2016 02:42:32 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Sun Oct 23 2016 02:42:33 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Sun Oct 23 2016 02:42:33 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Sun Oct 23 2016 02:42:41 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Search the itemname :Sam
+Sun Oct 23 2016 02:43:28 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Sun Oct 23 2016 02:43:28 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Sun Oct 23 2016 02:43:29 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Sun Oct 23 2016 02:43:34 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Search the itemname :Sam
+Sun Oct 23 2016 02:43:49 GMT-0700 (Pacific Daylight Time) || anonymous || Action: signin
+Sun Oct 23 2016 02:43:49 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Sun Oct 23 2016 02:43:59 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Validate signin for user :Emma@gmail.com
+Sun Oct 23 2016 02:44:08 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Validate signin for user :emma@gmail.com
+Sun Oct 23 2016 02:45:03 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Sun Oct 23 2016 02:45:03 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Sun Oct 23 2016 02:45:05 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Search the itemname :undefined
+Sun Oct 23 2016 02:45:18 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Search the itemname :Sam
+Sun Oct 23 2016 02:45:20 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Search the itemname :S
+Sun Oct 23 2016 02:45:24 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Search the itemname :shoe
+Sun Oct 23 2016 02:45:35 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Search the itemname :electronics
+Sun Oct 23 2016 02:45:37 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Search the itemname :fashion
+Sun Oct 23 2016 02:45:38 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Search the itemname :sporting goods
+Sun Oct 23 2016 02:48:07 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Search the itemname :shoe
+Sun Oct 23 2016 02:48:08 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Get the item with item id :580c868ba7bba11784211d6c
+Sun Oct 23 2016 02:48:13 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Search the itemname :shoe
+Sun Oct 23 2016 02:48:23 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Get the item with item id :580c868ba7bba11784211d6c
+Sun Oct 23 2016 02:48:32 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Search the itemname :shoe
+Sun Oct 23 2016 02:48:39 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Get the item with item id :580c868ba7bba11784211d6c
+Sun Oct 23 2016 02:49:24 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Sun Oct 23 2016 02:49:24 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Sun Oct 23 2016 02:49:25 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Sun Oct 23 2016 02:49:28 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Search the itemname :undefined
+Sun Oct 23 2016 02:49:33 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Get the item with item id :580c52c76a24f11aa8ff3636
+Sun Oct 23 2016 02:49:59 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Sun Oct 23 2016 02:49:59 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Sun Oct 23 2016 02:50:00 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Sun Oct 23 2016 02:50:02 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Search the itemname :undefined
+Sun Oct 23 2016 02:50:07 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Get the item with item id :580c52c76a24f11aa8ff3636
+Sun Oct 23 2016 02:51:07 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Sun Oct 23 2016 02:51:07 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Sun Oct 23 2016 02:51:08 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Sun Oct 23 2016 02:51:10 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Search the itemname :undefined
+Sun Oct 23 2016 02:51:16 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Get the item with item id :580c52c76a24f11aa8ff3636
+Sun Oct 23 2016 02:52:58 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Sun Oct 23 2016 02:52:59 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Sun Oct 23 2016 02:52:59 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Sun Oct 23 2016 02:52:59 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Sun Oct 23 2016 02:53:02 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Search the itemname :undefined
+Sun Oct 23 2016 02:53:06 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Get the item with item id :580c52c76a24f11aa8ff3636
+Sun Oct 23 2016 02:56:21 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Sun Oct 23 2016 02:56:21 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Sun Oct 23 2016 02:56:22 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Sun Oct 23 2016 02:56:23 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Search the itemname :undefined
+Sun Oct 23 2016 02:56:27 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Get the item with item id :580c52c76a24f11aa8ff3636
+Sun Oct 23 2016 02:57:12 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Sun Oct 23 2016 02:57:12 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Sun Oct 23 2016 02:57:13 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Sun Oct 23 2016 02:57:15 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Search the itemname :undefined
+Sun Oct 23 2016 02:57:19 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Get the item with item id :580c52c76a24f11aa8ff3636
+Sun Oct 23 2016 02:58:03 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Sun Oct 23 2016 02:58:03 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Sun Oct 23 2016 02:58:04 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Sun Oct 23 2016 02:58:07 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Search the itemname :undefined
+Sun Oct 23 2016 02:58:11 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Get the item with item id :580c52c76a24f11aa8ff3636
+Sun Oct 23 2016 02:59:26 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Sun Oct 23 2016 02:59:26 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Sun Oct 23 2016 02:59:26 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Sun Oct 23 2016 02:59:29 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Search the itemname :undefined
+Sun Oct 23 2016 02:59:33 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Get the item with item id :580c52c76a24f11aa8ff3636
+Sun Oct 23 2016 03:01:04 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Sun Oct 23 2016 03:01:05 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Sun Oct 23 2016 03:01:05 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Sun Oct 23 2016 03:01:12 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Search the itemname :undefined
+Sun Oct 23 2016 03:01:17 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Get the item with item id :580c52c76a24f11aa8ff3636
+Sun Oct 23 2016 03:04:02 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Sun Oct 23 2016 03:04:02 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Sun Oct 23 2016 03:04:03 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Sun Oct 23 2016 03:04:13 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Search the itemname :undefined
+Sun Oct 23 2016 03:04:18 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Get the item with item id :580c52c76a24f11aa8ff3636
+Sun Oct 23 2016 03:10:59 GMT-0700 (Pacific Daylight Time) || anonymous || Action: signin
+Sun Oct 23 2016 03:11:00 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Sun Oct 23 2016 03:11:07 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Validate signin for user :emma@gmail.com
+Sun Oct 23 2016 03:13:20 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Sun Oct 23 2016 03:13:21 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Sun Oct 23 2016 03:13:23 GMT-0700 (Pacific Daylight Time) || anonymous || Action: signin
+Sun Oct 23 2016 03:13:23 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Sun Oct 23 2016 03:13:27 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Sun Oct 23 2016 03:13:28 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Search the itemname :undefined
+Sun Oct 23 2016 03:13:34 GMT-0700 (Pacific Daylight Time) || anonymous || Action: signin
+Sun Oct 23 2016 03:13:34 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Sun Oct 23 2016 03:13:48 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Validate signin for user :emma@gmail.com
+Tue Oct 25 2016 23:35:47 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Tue Oct 25 2016 23:35:49 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Tue Oct 25 2016 23:35:55 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Search the itemname :electronics
+Tue Oct 25 2016 23:35:58 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Search the itemname :sporting goods
+Tue Oct 25 2016 23:36:03 GMT-0700 (Pacific Daylight Time) || anonymous || Action: signin
+Tue Oct 25 2016 23:36:04 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Tue Oct 25 2016 23:36:05 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loading register page
+Tue Oct 25 2016 23:36:35 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Register new userkeerthi
+Tue Oct 25 2016 23:36:36 GMT-0700 (Pacific Daylight Time) || anonymous || Action: signin
+Tue Oct 25 2016 23:36:37 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Tue Oct 25 2016 23:36:45 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Validate signin for user :keerthi@gmail.com
+Tue Oct 25 2016 23:43:16 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Tue Oct 25 2016 23:43:17 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Tue Oct 25 2016 23:43:18 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Get cart details
+Tue Oct 25 2016 23:43:20 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Tue Oct 25 2016 23:43:21 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Tue Oct 25 2016 23:43:25 GMT-0700 (Pacific Daylight Time) || anonymous || Action: signin
+Tue Oct 25 2016 23:43:25 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Tue Oct 25 2016 23:43:32 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Validate signin for user :emma@gmail.com
+Tue Oct 25 2016 23:48:48 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Tue Oct 25 2016 23:48:49 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Tue Oct 25 2016 23:48:51 GMT-0700 (Pacific Daylight Time) || anonymous || Action: signin
+Tue Oct 25 2016 23:48:51 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Tue Oct 25 2016 23:49:02 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Validate signin for user :emma@gmail.com
+Tue Oct 25 2016 23:51:06 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Tue Oct 25 2016 23:51:07 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Tue Oct 25 2016 23:51:08 GMT-0700 (Pacific Daylight Time) || anonymous || Action: signin
+Tue Oct 25 2016 23:51:09 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Tue Oct 25 2016 23:51:16 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Validate signin for user :emma@gmail.com
+Tue Oct 25 2016 23:52:26 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Tue Oct 25 2016 23:52:27 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Tue Oct 25 2016 23:52:31 GMT-0700 (Pacific Daylight Time) || anonymous || Action: signin
+Tue Oct 25 2016 23:52:31 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Tue Oct 25 2016 23:52:41 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Validate signin for user :emma@gmail.com
+Tue Oct 25 2016 23:53:46 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Tue Oct 25 2016 23:53:46 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Tue Oct 25 2016 23:53:47 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Tue Oct 25 2016 23:53:49 GMT-0700 (Pacific Daylight Time) || anonymous || Action: signin
+Tue Oct 25 2016 23:53:49 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Tue Oct 25 2016 23:53:56 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Validate signin for user :emma@gmail.com
+Tue Oct 25 2016 23:55:39 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Tue Oct 25 2016 23:55:40 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Tue Oct 25 2016 23:55:42 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Search the itemname :undefined
+Tue Oct 25 2016 23:55:43 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Get the item with item id :580c52c76a24f11aa8ff3636
+Tue Oct 25 2016 23:55:44 GMT-0700 (Pacific Daylight Time) || anonymous || Action: signin
+Tue Oct 25 2016 23:55:44 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Tue Oct 25 2016 23:55:51 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Validate signin for user :emma@gmail.com
+Wed Oct 26 2016 00:10:28 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Wed Oct 26 2016 00:10:29 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Wed Oct 26 2016 00:10:35 GMT-0700 (Pacific Daylight Time) || anonymous || Action: signin
+Wed Oct 26 2016 00:10:35 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Wed Oct 26 2016 00:10:43 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Validate signin for user :emma@gmail.com
+Wed Oct 26 2016 00:13:43 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Wed Oct 26 2016 00:13:44 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Wed Oct 26 2016 00:13:45 GMT-0700 (Pacific Daylight Time) || anonymous || Action: signin
+Wed Oct 26 2016 00:13:46 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Wed Oct 26 2016 00:13:53 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Validate signin for user :emma@gmail.com
+Wed Oct 26 2016 00:14:50 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Wed Oct 26 2016 00:14:51 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Wed Oct 26 2016 00:14:52 GMT-0700 (Pacific Daylight Time) || anonymous || Action: signin
+Wed Oct 26 2016 00:14:52 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Wed Oct 26 2016 00:14:59 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Validate signin for user :emma@gmail.com
+Wed Oct 26 2016 00:21:43 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Wed Oct 26 2016 00:21:44 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Wed Oct 26 2016 00:21:46 GMT-0700 (Pacific Daylight Time) || anonymous || Action: signin
+Wed Oct 26 2016 00:21:46 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Wed Oct 26 2016 00:21:54 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Validate signin for user :emma@gmail.com
+Wed Oct 26 2016 00:24:21 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Wed Oct 26 2016 00:24:22 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Wed Oct 26 2016 00:24:59 GMT-0700 (Pacific Daylight Time) || anonymous || Action: signin
+Wed Oct 26 2016 00:25:00 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Wed Oct 26 2016 00:25:06 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Validate signin for user :emma@gmail.com
+Wed Oct 26 2016 00:30:48 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Wed Oct 26 2016 00:30:49 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Wed Oct 26 2016 00:30:52 GMT-0700 (Pacific Daylight Time) || anonymous || Action: signin
+Wed Oct 26 2016 00:30:53 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Wed Oct 26 2016 00:31:00 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Validate signin for user :emma@gmail.com
+Wed Oct 26 2016 00:36:02 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Wed Oct 26 2016 00:36:03 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Wed Oct 26 2016 00:36:05 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Search the itemname :undefined
+Wed Oct 26 2016 00:36:06 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Search the itemname :list-bid
+Wed Oct 26 2016 00:36:07 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Search the itemname :list-nobid
+Wed Oct 26 2016 00:36:12 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Search the itemname :list-all
+Wed Oct 26 2016 00:36:19 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Search the itemname :list-nobid
+Wed Oct 26 2016 00:37:36 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Get the item with item id :58104f685a49801e1c1ef44d
+Wed Oct 26 2016 00:37:42 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Search the itemname :undefined
+Wed Oct 26 2016 00:38:01 GMT-0700 (Pacific Daylight Time) || anonymous || Action: signin
+Wed Oct 26 2016 00:38:02 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Wed Oct 26 2016 00:38:27 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Validate signin for user :emma@gmail.com
+Wed Oct 26 2016 00:39:03 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Wed Oct 26 2016 00:39:04 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Wed Oct 26 2016 00:39:05 GMT-0700 (Pacific Daylight Time) || anonymous || Action: signin
+Wed Oct 26 2016 00:39:06 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Wed Oct 26 2016 00:39:14 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Validate signin for user :keerthi@gmail.com
+Wed Oct 26 2016 00:44:56 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Wed Oct 26 2016 00:44:57 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Wed Oct 26 2016 00:44:59 GMT-0700 (Pacific Daylight Time) || anonymous || Action: signin
+Wed Oct 26 2016 00:44:59 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Wed Oct 26 2016 00:45:09 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Validate signin for user :keerthi@gmail.com
+Wed Oct 26 2016 00:50:49 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Wed Oct 26 2016 00:50:50 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Wed Oct 26 2016 00:50:52 GMT-0700 (Pacific Daylight Time) || anonymous || Action: signin
+Wed Oct 26 2016 00:50:53 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Wed Oct 26 2016 00:51:01 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Validate signin for user :emma@gmail.com
+Wed Oct 26 2016 00:56:58 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Wed Oct 26 2016 00:56:59 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Wed Oct 26 2016 00:57:02 GMT-0700 (Pacific Daylight Time) || anonymous || Action: signin
+Wed Oct 26 2016 00:57:02 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Wed Oct 26 2016 00:57:09 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Validate signin for user :emma@gmail.com
+Wed Oct 26 2016 00:57:59 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Wed Oct 26 2016 00:58:00 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Wed Oct 26 2016 00:58:01 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Search the itemname :undefined
+Wed Oct 26 2016 00:58:02 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Search the itemname :list-all
+Wed Oct 26 2016 00:58:02 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Search the itemname :list-nobid
+Wed Oct 26 2016 00:58:03 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Search the itemname :list-bid
+Wed Oct 26 2016 00:59:25 GMT-0700 (Pacific Daylight Time) || anonymous || Action: signin
+Wed Oct 26 2016 00:59:26 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Wed Oct 26 2016 00:59:49 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Validate signin for user :emma@gmail.com
+Wed Oct 26 2016 01:00:28 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Wed Oct 26 2016 01:00:29 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Wed Oct 26 2016 01:00:30 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Search the itemname :undefined
+Wed Oct 26 2016 01:00:32 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Search the itemname :list-bid
+Wed Oct 26 2016 01:00:35 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Get the item with item id :58106294d9af551468b3056a
+Wed Oct 26 2016 01:44:32 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Wed Oct 26 2016 01:44:33 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Wed Oct 26 2016 01:44:35 GMT-0700 (Pacific Daylight Time) || anonymous || Action: signin
+Wed Oct 26 2016 01:44:36 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Wed Oct 26 2016 01:44:53 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Validate signin for user :emma@gmail.com
+Wed Oct 26 2016 01:47:57 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Wed Oct 26 2016 01:47:58 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Wed Oct 26 2016 01:48:17 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Wed Oct 26 2016 01:48:18 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Wed Oct 26 2016 01:48:18 GMT-0700 (Pacific Daylight Time) || anonymous || Action: signin
+Wed Oct 26 2016 01:48:19 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Wed Oct 26 2016 01:48:26 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Validate signin for user :emma@gmail.com
+Wed Oct 26 2016 01:48:34 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Wed Oct 26 2016 01:48:35 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Wed Oct 26 2016 01:48:36 GMT-0700 (Pacific Daylight Time) || anonymous || Action: signin
+Wed Oct 26 2016 01:48:37 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Wed Oct 26 2016 01:48:45 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Validate signin for user :keerthi@gmail.com
+Tue Nov 01 2016 22:51:43 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Tue Nov 01 2016 22:51:44 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Tue Nov 01 2016 22:51:46 GMT-0700 (Pacific Daylight Time) || anonymous || Action: signin
+Tue Nov 01 2016 22:51:47 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Tue Nov 01 2016 22:54:07 GMT-0700 (Pacific Daylight Time) || anonymous || Action: signin
+Tue Nov 01 2016 22:54:08 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Tue Nov 01 2016 22:55:47 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Tue Nov 01 2016 23:09:21 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Search the itemname :undefined
+Tue Nov 01 2016 23:10:30 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Get the item with item id :580c868ba7bba11784211d6c
+Tue Nov 01 2016 23:11:06 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Tue Nov 01 2016 23:11:07 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Tue Nov 01 2016 23:11:07 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Get the item with item id :580c868ba7bba11784211d6c
+Tue Nov 01 2016 23:16:22 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Tue Nov 01 2016 23:16:22 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Tue Nov 01 2016 23:16:23 GMT-0700 (Pacific Daylight Time) || anonymous || Action: signin
+Tue Nov 01 2016 23:16:24 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Tue Nov 01 2016 23:31:27 GMT-0700 (Pacific Daylight Time) || anonymous || Action: signin
+Tue Nov 01 2016 23:31:28 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Tue Nov 01 2016 23:36:11 GMT-0700 (Pacific Daylight Time) || anonymous || Action: signin
+Tue Nov 01 2016 23:36:12 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Tue Nov 01 2016 23:42:58 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Tue Nov 01 2016 23:42:59 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Tue Nov 01 2016 23:43:33 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Tue Nov 01 2016 23:43:34 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Wed Nov 02 2016 00:02:30 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Wed Nov 02 2016 00:02:30 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Wed Nov 02 2016 00:02:31 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Wed Nov 02 2016 00:02:33 GMT-0700 (Pacific Daylight Time) || anonymous || Action: signin
+Wed Nov 02 2016 00:02:34 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Wed Nov 02 2016 00:04:25 GMT-0700 (Pacific Daylight Time) || anonymous || Action: signin
+Wed Nov 02 2016 00:04:26 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Wed Nov 02 2016 00:11:53 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Wed Nov 02 2016 00:11:53 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Wed Nov 02 2016 00:11:54 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Wed Nov 02 2016 00:11:56 GMT-0700 (Pacific Daylight Time) || anonymous || Action: signin
+Wed Nov 02 2016 00:11:57 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Wed Nov 02 2016 00:55:09 GMT-0700 (Pacific Daylight Time) || anonymous || Action: signin
+Wed Nov 02 2016 00:55:10 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Wed Nov 02 2016 01:11:33 GMT-0700 (Pacific Daylight Time) || anonymous || Action: signin
+Wed Nov 02 2016 01:11:34 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Wed Nov 02 2016 01:20:33 GMT-0700 (Pacific Daylight Time) || anonymous || Action: signin
+Wed Nov 02 2016 01:20:34 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Wed Nov 02 2016 01:26:48 GMT-0700 (Pacific Daylight Time) || anonymous || Action: signin
+Wed Nov 02 2016 01:26:49 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Wed Nov 02 2016 01:33:32 GMT-0700 (Pacific Daylight Time) || anonymous || Action: signin
+Wed Nov 02 2016 01:33:33 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Wed Nov 02 2016 01:37:52 GMT-0700 (Pacific Daylight Time) || anonymous || Action: signin
+Wed Nov 02 2016 01:37:53 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Wed Nov 02 2016 01:51:11 GMT-0700 (Pacific Daylight Time) || anonymous || Action: signin
+Wed Nov 02 2016 01:51:12 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Wed Nov 02 2016 01:56:42 GMT-0700 (Pacific Daylight Time) || anonymous || Action: signin
+Wed Nov 02 2016 01:56:43 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Wed Nov 02 2016 02:02:11 GMT-0700 (Pacific Daylight Time) || anonymous || Action: signin
+Wed Nov 02 2016 02:02:12 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Wed Nov 02 2016 02:05:04 GMT-0700 (Pacific Daylight Time) || anonymous || Action: signin
+Wed Nov 02 2016 02:05:05 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Wed Nov 02 2016 02:11:03 GMT-0700 (Pacific Daylight Time) || anonymous || Action: signin
+Wed Nov 02 2016 02:11:05 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Wed Nov 02 2016 02:20:36 GMT-0700 (Pacific Daylight Time) || anonymous || Action: signin
+Wed Nov 02 2016 02:20:37 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Wed Nov 02 2016 02:24:16 GMT-0700 (Pacific Daylight Time) || anonymous || Action: signin
+Wed Nov 02 2016 02:24:17 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Wed Nov 02 2016 02:25:48 GMT-0700 (Pacific Daylight Time) || anonymous || Action: signin
+Wed Nov 02 2016 02:25:49 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Wed Nov 02 2016 02:26:36 GMT-0700 (Pacific Daylight Time) || anonymous || Action: signin
+Wed Nov 02 2016 02:26:37 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Wed Nov 02 2016 02:29:43 GMT-0700 (Pacific Daylight Time) || anonymous || Action: signin
+Wed Nov 02 2016 02:29:44 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Wed Nov 02 2016 02:29:51 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Wed Nov 02 2016 02:29:52 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Wed Nov 02 2016 02:29:52 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Get account details of user :undefined
+Wed Nov 02 2016 02:36:05 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Wed Nov 02 2016 02:36:07 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Wed Nov 02 2016 02:36:08 GMT-0700 (Pacific Daylight Time) || anonymous || Action: signin
+Wed Nov 02 2016 02:36:09 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Wed Nov 02 2016 02:37:20 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Wed Nov 02 2016 02:37:21 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Wed Nov 02 2016 02:37:22 GMT-0700 (Pacific Daylight Time) || anonymous || Action: signin
+Wed Nov 02 2016 02:37:23 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Wed Nov 02 2016 02:38:29 GMT-0700 (Pacific Daylight Time) || anonymous || Action: signin
+Wed Nov 02 2016 02:38:30 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Wed Nov 02 2016 02:39:20 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Wed Nov 02 2016 02:39:21 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Wed Nov 02 2016 02:39:21 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Get account details of user :undefined
+Wed Nov 02 2016 02:43:16 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Wed Nov 02 2016 02:43:17 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Wed Nov 02 2016 02:43:20 GMT-0700 (Pacific Daylight Time) || anonymous || Action: signin
+Wed Nov 02 2016 02:43:21 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Wed Nov 02 2016 02:45:28 GMT-0700 (Pacific Daylight Time) || anonymous || Action: signin
+Wed Nov 02 2016 02:45:29 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Wed Nov 02 2016 02:46:32 GMT-0700 (Pacific Daylight Time) || anonymous || Action: signin
+Wed Nov 02 2016 02:46:33 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Wed Nov 02 2016 02:47:48 GMT-0700 (Pacific Daylight Time) || anonymous || Action: signin
+Wed Nov 02 2016 02:47:50 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Wed Nov 02 2016 02:48:11 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Wed Nov 02 2016 02:48:12 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Wed Nov 02 2016 02:48:22 GMT-0700 (Pacific Daylight Time) || anonymous || Action: signin
+Wed Nov 02 2016 02:48:23 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Wed Nov 02 2016 03:02:01 GMT-0700 (Pacific Daylight Time) || anonymous || Action: signin
+Wed Nov 02 2016 03:02:02 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Wed Nov 02 2016 03:02:03 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loading register page
+Wed Nov 02 2016 03:09:36 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loading register page
+Wed Nov 02 2016 03:10:20 GMT-0700 (Pacific Daylight Time) || anonymous || Action: signin
+Wed Nov 02 2016 03:10:21 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Wed Nov 02 2016 16:34:48 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Wed Nov 02 2016 16:34:49 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Wed Nov 02 2016 16:34:58 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Search the itemname :sam
+Wed Nov 02 2016 16:35:01 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Search the itemname :
+Wed Nov 02 2016 16:35:06 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Search the itemname :shoes
+Wed Nov 02 2016 16:35:12 GMT-0700 (Pacific Daylight Time) || anonymous || Action: signin
+Wed Nov 02 2016 16:35:13 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Wed Nov 02 2016 16:37:35 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Wed Nov 02 2016 16:37:36 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Wed Nov 02 2016 16:37:38 GMT-0700 (Pacific Daylight Time) || anonymous || Action: signin
+Wed Nov 02 2016 16:37:39 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Wed Nov 02 2016 16:56:23 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Wed Nov 02 2016 16:56:24 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Wed Nov 02 2016 16:56:26 GMT-0700 (Pacific Daylight Time) || anonymous || Action: signin
+Wed Nov 02 2016 16:56:26 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Wed Nov 02 2016 16:56:51 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Wed Nov 02 2016 16:56:51 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Wed Nov 02 2016 16:59:40 GMT-0700 (Pacific Daylight Time) || anonymous || Action: signin
+Wed Nov 02 2016 16:59:40 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Thu Nov 03 2016 22:55:34 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Thu Nov 03 2016 22:55:35 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Thu Nov 03 2016 22:55:37 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Thu Nov 03 2016 22:55:38 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Thu Nov 03 2016 23:08:30 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Loaded home page
+Thu Nov 03 2016 23:08:31 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Thu Nov 03 2016 23:08:44 GMT-0700 (Pacific Daylight Time) || anonymous || Action: signin
+Thu Nov 03 2016 23:08:45 GMT-0700 (Pacific Daylight Time) || anonymous || Action: Retrieving data from session
+Sun Nov 06 2016 17:22:48 GMT-0800 (Pacific Standard Time) || anonymous || Action: Loaded home page
+Sun Nov 06 2016 17:22:50 GMT-0800 (Pacific Standard Time) || anonymous || Action: Retrieving data from session
+Sun Nov 06 2016 17:23:16 GMT-0800 (Pacific Standard Time) || anonymous || Action: signin
+Sun Nov 06 2016 17:23:17 GMT-0800 (Pacific Standard Time) || anonymous || Action: Retrieving data from session
+Sun Nov 06 2016 17:23:19 GMT-0800 (Pacific Standard Time) || anonymous || Action: Retrieving data from session
+Sun Nov 06 2016 17:23:22 GMT-0800 (Pacific Standard Time) || anonymous || Action: signin
+Sun Nov 06 2016 17:23:22 GMT-0800 (Pacific Standard Time) || anonymous || Action: Retrieving data from session
+Sun Nov 06 2016 17:23:24 GMT-0800 (Pacific Standard Time) || anonymous || Action: Retrieving data from session
+Sun Nov 06 2016 17:25:50 GMT-0800 (Pacific Standard Time) || anonymous || Action: signin
+Sun Nov 06 2016 17:25:51 GMT-0800 (Pacific Standard Time) || anonymous || Action: Retrieving data from session
+Wed Nov 16 2016 17:32:59 GMT-0800 (Pacific Standard Time) || anonymous || Action: Loaded home page
+Wed Nov 16 2016 17:33:00 GMT-0800 (Pacific Standard Time) || anonymous || Action: Retrieving data from session
+Wed Nov 16 2016 17:33:10 GMT-0800 (Pacific Standard Time) || anonymous || Action: signin
+Wed Nov 16 2016 17:33:11 GMT-0800 (Pacific Standard Time) || anonymous || Action: Retrieving data from session
+Mon Nov 21 2016 16:40:18 GMT-0800 (Pacific Standard Time) || anonymous || Action: Loaded home page
+Mon Nov 21 2016 16:59:06 GMT-0800 (Pacific Standard Time) || anonymous || Action: Loaded home page
+Mon Nov 21 2016 16:59:07 GMT-0800 (Pacific Standard Time) || anonymous || Action: Retrieving data from session
+Thu Dec 08 2016 22:41:34 GMT-0800 (Pacific Standard Time) || anonymous || Action: signin
+Thu Dec 08 2016 22:41:35 GMT-0800 (Pacific Standard Time) || anonymous || Action: Retrieving data from session

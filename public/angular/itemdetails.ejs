@@ -1,0 +1,222 @@
+<div ng-controller="itemdetailscontroller">
+
+
+<br>
+
+
+<div class="container-fluid">
+	<div class="row">
+		<div class="col-md-5">
+		<img src="http://placehold.it/500x500" class="img-rounded">
+		</div>
+		
+		<div class="col-md-7">
+			<div class="row">
+			<p class="itemheader">{{itemname}}</p>
+			<hr class="hrnew">
+			</div>
+			
+			<div class="row">
+				<div class="col-md-7">
+				<p>Item condition <span class="label label-default">{{itemcondition}}</span></p>
+				
+				<br>
+				
+				<form class="form-inline" ng-show="itemauction == 0">
+				  <div class="form-group" >
+				    <label class="quantitydesc" for="text">Quantity:</label>
+				    <input type="text" class="form-control" style="width:45px" id="text" ng-model="quantityselected" ng-blur="validateQuantity()">
+				    
+				  </div>
+				  
+				  <div class="form-group" style="padding-left:30px">
+				    <label class="quantitydesc" for="text">{{itemavailable}} available/ {{itemsold}} sold</label>				  
+				  </div>
+				  
+				  </form>
+				  <p ng-show="showmessage" style="color:red"> Quantity cannot be greater than available count. resetting it to 1 </p>
+				  <br>
+				  <br>
+				  <br>
+			
+				  <!--grey card details starts -->
+				  <div class="itemdescriptioncard">
+				  
+				  	<div class="row" ng-show="itemauction == 0">
+				  		<div class="col-md-6">
+							<p>&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;Price: <span class="bolddescription">US ${{itemprice}}</span></p>
+						</div>
+						
+						<div class="col-md-6">
+			
+							<a ng-href="{{cartlink}}"><button type="button" class="btn btn-primary" style="font-weight:900" ng-click="addToCart(id,'buy')">Buy it now</button></a>
+							<br>
+							<br>
+							
+							<a ng-href="{{addlink}}"><button type="button" class="btn btn-primary btn-cart" style="font-weight:900" ng-click="addToCart(id,'cart')">Add to cart</button></a>
+						</div>  		
+				  	</div>
+				  
+				  <div class="row" ng-show="itemauction == 1">
+				  		<div class="row">
+					  		<div class="col-md-6">
+								<p>&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;Current bid: <span class="bolddescription">US ${{currentbid}}</span></p>
+							</div>
+							<div class="col-md-6">
+								<p>[ {{numberbids}} bids  ]</p>
+							</div>
+						</div>
+						<br>
+						<div class="row">
+						<div class='col-md-1'></div>
+						<div class="col-md-11" style="color:green">
+							Bidding ends on : {{bidenddate}}
+						</div>
+						</div>
+						<br>
+						<div class="row">
+						<div class='col-md-1'></div>
+						<div class="col-md-5">		
+							<input type="number" class="form-control" placeholder="Place your bid" ng-model="bidplaced">
+							<br>
+							<p> Enter US $ {{predictedbid}} or more</p>
+							<p ng-show="bidAmountLess" style="color:red">Entered amount is too less!</p>
+						</div>
+						<div class="col-md-6">
+						 <a ng-href="{{bidlink}}">
+						 		
+							<button type="button" class="btn btn-primary" style="font-weight:900" ng-click="bidItem(id)">Place bid</button>
+							 </a>
+							
+						</div>
+						</div>  		
+				  	</div>
+				  
+				  <!--bottom button implementation  -->
+				  <br>
+				  <br>
+				  <br>
+				  
+				  <div class="row bottom-btn">
+				  	<div class="col-md-4 button-card" style="color:red"> Limited quantity remaining </div>
+				  	<div class="col-md-4 button-card"> {{average}}% of items are sold </div>
+				  	<div class="col-md-4 button-card"> Free Shipping for the item</div>
+				  </div>
+				  
+			
+				  
+				  <!-- bottom button impplementation ends -->
+				  
+				  </div>
+				  <br>
+				  <br>
+				  <div class="row iteminfodetails">
+				  	<div class="col-md-2">
+				  		Shipping:
+				  	</div>
+				  	<div class="col-md-10">
+				  		FREE Economy Int'l Shipping  <br>
+						See details about international shipping here.  <br>
+						Item location:{{itemshippingfrom}}<br>
+						Ships to:Worldwide See exclusions</span></p>
+				  	</div>
+				  </div>				  
+				<br>
+				  <div class="row iteminfodetails">
+				  	<div class="col-md-2">
+				  		Delivery:
+				  	</div>
+				  	<div class="col-md-10">
+				  		Varies for items shipped from an international location
+				  	</div>
+				  </div>  
+				<br>
+				<div class="row iteminfodetails">
+				  	<div class="col-md-2">
+				  		Payments:
+				  	</div>
+				  	<div class="col-md-10">
+				  		<img src="../stock/cards.png">
+				  	</div>
+				  </div>
+					<br>
+					<div class="row iteminfodetails">
+				  	<div class="col-md-2">
+				  		Returns:
+				  	</div>
+				  	<div class="col-md-10">
+				  		30 days money back, buyer pays return shipping
+				  	</div>
+				  </div>
+				  <br>
+				  <div class="row iteminfodetails">
+				  	<div class="col-md-2">
+				  		Guarantee:
+				  	</div>
+				  	<div class="col-md-10">
+				  		<img src="../stock/guarantee.png"><br>
+				  		Get the item you ordered or get your money back.<br>
+						Covers your purchase price and original shipping.
+				  	</div>
+				  </div>
+				  
+				</div>
+				
+				
+					
+				<div class="col-md-5">
+					<div class="sellercard">
+						<div class="row">
+							<p class="bolddescription">Seller Information</p>
+							<p style="color:#0654ba">{{itemowner}}</p>
+							<hr style="border-top: dotted 2px;color:#888888" />
+							<a href="#/basicsearch" ng-click="sellerClicked()"><p style="color:#0654ba">See other items of this seller</p></a>
+						
+						</div>
+					</div>
+				</div>
+			
+			</div>
+			
+		</div>	
+	</div>
+	
+	<div class="row shippingcardpad">
+		<ul class="nav nav-tabs">
+		  <!-- <li role="presentation" class="active"><a ng-click="detailClicked()">Description</a></li>
+		  <li role="presentation" ><a  ng-click="shippingClicked()">Shipping and payments</a></li> -->
+		   <li role="presentation" ng-class="{ 'active': !showshipping, '': 'showshipping' }"><a ng-click="detailClicked()">Description</a></li>
+		  <li role="presentation" ng-class="{ 'active': showshipping, '': '!showshipping' }"><a  ng-click="shippingClicked()">Shipping and payments</a></li> 
+		  <!-- ng-class="{ 'text-success': awesome, 'text-large': giant }" -->
+		</ul>
+		<!-- should use this code starts  -->
+		<div class="desccard" ng-show="!showshipping">
+			  <p> Seller assumes all responsibility for this listing<p>
+			  <p>Last updated on  {{itemupdated}} </p>
+			  
+			  <div class="desccard2">
+			  	<p> {{itemfeature1}}</p>
+			  	<p> {{itemfeature2}}</p>
+			  	<p> {{itemfeature3}}</p>
+			  	<p> {{itemfeature4}}</p>
+			  	<p> {{itemfeature5}}</p>
+			  </div>
+			    
+	    </div>
+	    <!-- should use this code ends  -->
+	    <div class="desccard" ng-show="showshipping">
+			  <p> Seller assumes all responsibility for this listing<p>
+			  <p>Last updated on  {{itemupdated}} </p>
+			  
+			  <div class="desccard2">
+			  	<p class="bolddescription"> Shipping and handling</p>
+			  	<p>Item location: {{itemshippingfrom}}</p>
+				<p>Shipping to: Worldwide</p>
+			  </div>
+			    
+	    </div>  
+		
+	</div>
+</div>
+
+</div>

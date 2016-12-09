@@ -1,0 +1,130 @@
+<div class="container" ng-controller="mycollection">
+<div class="row">
+	
+	<div class="row shippingcardpad">
+		<ul class="nav nav-tabs">
+		  <!-- <li role="presentation" class="active"><a ng-click="detailClicked()">Description</a></li>
+		  <li role="presentation" ><a  ng-click="shippingClicked()">Shipping and payments</a></li> -->
+		   <li role="presentation" ng-class="{ 'active': showshipping, '': '!showshipping' }"><a ng-click="collectionClicked()">My Collection</a></li>
+		  <li role="presentation" ng-class="{ 'active': showhist, '': '!showhist,' }"><a  ng-click="historyClicked()">Purchase History</a></li> 
+		  <li role="presentation" ng-class="{ 'active': showbid, '': '!showbid' }"><a  ng-click="bidsClicked()">Bids</a></li>
+		</ul>
+		<!-- should use this code starts  -->
+		<div class="desccard" ng-show="showshipping">
+			  <p class="category"> All the items you are selling<p>
+			  
+			  
+			  <div class="desccard2">
+			  	
+			  	<!-- <div ng-repeat="item in values"> -->
+			  	 <div ng-repeat="item in values"> 
+					<div class="row" >
+					
+							<div class="col-md-3">
+							<img src="http://placehold.it/200x200" class="img-rounded">
+							</div>
+							
+							<div class="col-md-5">
+								<div class="itemtitle">{{item.itemname}}</div>
+								<br>
+								<div class="itemprice" ng-show="item.itemauction == 0">${{item.itemprice}}</div>
+								<div class="itemprice" ng-show="item.itemauction == 1">${{item.currentbid}}</div>
+								<br>
+								<div class="shipping">Free shipping</div>
+								<br>
+								<div class="available" ng-show="item.itemauction == 0">{{item.itemavailable}} Available</div>
+								<div class="available" ng-show="item.itemauction == 1">{{item.numberbids}} Bids</div>
+								<br>
+								<div class="sold" ng-show="item.itemauction == 0">{{item.itemsold}} Sold</div>
+							</div>
+							
+							</div>
+							<hr>
+				</div>			  				  
+			  	
+			  	
+			  </div>
+			    
+	    </div>
+	    <!-- should use this code ends  -->
+	    <div class=	"desccard" ng-show="showhist">
+			  <p class="category"> Your purchase history<p>
+			  
+			  
+			  <div class="desccard2">
+					 <div ng-repeat="item in history">  
+					<!-- <div> -->
+					<div class="row" >
+					
+							<div class="col-md-3">
+							<img src="http://placehold.it/200x200" class="img-rounded">
+							</div>
+							
+							<div class="col-md-5">
+								<div class="itemtitle" >{{item.itemname}}</div>
+								<br>
+								<div class="itemprice">${{item.itemprice}}</div>
+								<br>
+								<div class="shipping">Seller information :{{item.itemowner}}</div>
+								<br>
+								<div class="shipping">Order ID : {{item.orderid}}</div>
+								<br>
+								<div class="shipping">Quantity : {{item.quantity}}</div>
+								<br>
+								<div class="shipping">Order amount : {{item.orderprice}}</div>
+								<br>
+								
+								<div class="shipping">Shipping address : {{item.shippingaddress}}</div>
+								
+							</div>
+							
+							</div>
+							<hr>
+				</div>			  		  	
+			  </div>
+			    
+	    </div>  
+	    
+	    
+	    
+	    
+	    <!--  -->
+		
+		<div class="desccard" ng-show="showbid">
+			  <p class="category"> Items you have bid<p>
+			  
+			  
+			  <div class="desccard2">
+			  	
+			  	<!-- <div ng-repeat="item in values"> -->
+			  	 <div ng-repeat="item in bids"> 
+					<div class="row" >
+					
+							<div class="col-md-3">
+							<img src="http://placehold.it/200x200" class="img-rounded">
+							</div>
+							
+							<div class="col-md-5">
+								<div class="itemtitle">{{item.itemname}}</div>
+								<br>
+								<div class="itemprice">${{item.bidingamount}}</div>								
+								<br>
+								<div class="shipping">Free shipping</div>
+								<br>
+								<div class="available"">Seller :{{item.itemowner}}</div>								
+								
+							</div>
+							
+							</div>
+							<hr>
+				</div>			  				  
+			  	
+			  	
+			  </div>
+			    
+	    </div>
+	</div>
+	
+	
+</div>
+</div>
