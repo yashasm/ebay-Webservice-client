@@ -1,7 +1,5 @@
 var express = require('express');
 var router = express.Router();
-var controller = require('../controllers/usercredentials');
-var searchController = require('../controllers/searchvalidations');
 var logFile = require('./log');
 var mq_client = require('../rpc/client');
 
@@ -53,110 +51,137 @@ router.get('/confirm-login', function (req, res) {
 );
 
 
-/*router.get('/search-details/:searchstring', function(req,res){
-	
-	console.log("Inside new test variable");
-	console.log(req);
-	res
-	.status(200)
-	.send();
-});
-*/
 
-//router.get('/account-details', controller.getAccountDetails);
 
 router.get('/account-details', function(req,res){
 
-	console.log("lets get account details");	
-	msgTest = {"body":req.body,"session":req.session};
-	//console.log(msgTest);
-	mq_client.make_request('get_account_details',msgTest, function(err,results){
-
-		console.log("lets register new user");
-		console.log(results);
-		if(err){
-			throw err;
-		}
-		else 
-		{										
-			
-			res
-			.status(200)
-			.json(results);
-		}  
-	});
+	console.log("lets get account details");
+	
+	var option = {
+			ignoredNamespaces : true	
+		};
+	 var url = baseURL+"/Accounts?wsdl";
+	var args = {email: req.session.email};
+	  soap.createClient(url,option, function(err, client) {
+	      client.getAccountDetails(args, function(err, result) {
+	    	  if(result.statusCode == "200"){	    		  
+	    		  
+	    		  result = {"condition":"success"};													
+					
+					res
+					.status(200)
+					.json(result);
+	    	  }
+	    	  else{
+	    		  
+	    		  res
+		    		.status(401)
+		    		.json(result);
+	    	  }
+	      });
+	  });
 
 
 });
 
 
-//router.post('/account-details',controller.setAccountDetails);
+
 
 router.post('/account-details',function(req,res){
 	console.log("lets set account details");	
-	msgTest = {"body":req.body,"session":req.session};		
-	mq_client.make_request('set_account_details',msgTest, function(err,results){
+	
+	var n = req.body.birthday.indexOf("T");
+    req.body.birthday = req.body.birthday.substring(0, n);      
+    req.body.expiry = req.body.birthday.substring(0, 7);
+			
+	
+	var option = {
+			ignoredNamespaces : true	
+		};
+	 var url = baseURL+"/Accounts?wsdl";
+	var args = {email: req.session.email,firstname:req.body.firstname,lastname:req.body.lastname,phone:req.body.phone,ebayHandle:req.body.ebayhandle,birthday:req.body.birthday,address:req.body.address,cardnumber:req.body.cardnumber,expiry:req.body.expiry,cvv:req.body.cvv};
+	  soap.createClient(url,option, function(err, client) {
+	      client.setAccountDetails(args, function(err, result) {
+	    	  if(result == "200"){	    		  
+	    		  
+	    		  result = {"condition":"success"};													
+					
+					res
+					.status(200)
+					.json(result);
+	    	  }
+	    	  else{
+	    		  
+	    		  res
+		    		.status(401)
+		    		.json(result);
+	    	  }
+	      });
+	  });
 
-		console.log("lets register new user");
-		console.log(results);
-		if(err){
-			throw err;
-		}
-		else 
-		{				
-			
-			
-			
-			res
-			.status(200)
-			.json(results);
-		}  
-	});
 
 });
 
 
-//router.get('/search-mycollection', searchController.getMyCollectionData);
+
 router.get('/search-mycollection', function(req,res){
 	console.log("lets search my collection");	
-	msgTest = {"body":req.body,"session":req.session,"query":req.query};		
-	mq_client.make_request('search_my_collection',msgTest, function(err,results){
-
-		console.log("search_my_collection");
-		console.log(results);
-		if(err){
-			throw err;
-		}
-		else 
-		{							
-			res
-			.status(200)
-			.json(results);
-		}  
-	});
-
+	
+	
+	var option = {
+			ignoredNamespaces : true	
+		};
+	 var url = baseURL+"/SearchValidations?wsdl";
+	var args = {myMail: req.session.email};
+	  soap.createClient(url,option, function(err, client) {
+	      client.getMyCollectionData(args, function(err, result) {
+	    	  if(result.statusCode == "200"){	    		  
+	    		  
+	    		  result = {"condition":"success"};													
+					
+					res
+					.status(200)
+					.json(result);
+	    	  }
+	    	  else{
+	    		  
+	    		  res
+		    		.status(401)
+		    		.json(result);
+	    	  }
+	      });
+	  });
 });
 
 
-//router.get('/search-getmypurchasehistory', searchController.getMyPurchaseHistory);
+
 
 router.get('/search-getmypurchasehistory', function(req,res){
-	console.log("lets my purchase history");	
-	msgTest = {"body":req.body,"session":req.session,"query":req.query};		
-	mq_client.make_request('search_my_history',msgTest, function(err,results){
-
-		console.log("search_my_history");
-		console.log(results);
-		if(err){
-			throw err;
-		}
-		else 
-		{							
-			res
-			.status(200)
-			.json(results);
-		}  
-	});	
+	console.log("lets my purchase history");
+	
+	var option = {
+			ignoredNamespaces : true	
+		};
+	 var url = baseURL+"/SearchValidations?wsdl";
+	var args = {myMail: req.session.email};
+	  soap.createClient(url,option, function(err, client) {
+	      client.getMyPurchaseHistory(args, function(err, result) {
+	    	  if(result.statusCode == "200"){	    		  
+	    		  
+	    		  result = {"condition":"success"};													
+					
+					res
+					.status(200)
+					.json(result);
+	    	  }
+	    	  else{
+	    		  
+	    		  res
+		    		.status(401)
+		    		.json(result);
+	    	  }
+	      });
+	  });
 });
 
 
@@ -186,26 +211,11 @@ router.get('/search-bidinghistory', function(req,res){
 		    		.json(result);
 	    	  }
 	      });
-/*	msgTest = {"body":req.body,"session":req.session,"query":req.query};		
-	mq_client.make_request('my_bid_history',msgTest, function(err,results){
+	  });
 
-		console.log("search_my_history");
-		console.log(results);
-		if(err){
-			throw err;
-		}
-		else 
-		{							
-			res
-			.status(200)
-			.json(results);
-		}  
-	});	*/
 });
 
 
-
-//router.get('/search-details', searchController.searchData);
 router.get('/search-details', function(req,res){
 	console.log("lets my search-details");
 	
@@ -234,28 +244,13 @@ router.get('/search-details', function(req,res){
 		    		.json(result);
 	    	  }
 	      });
-	
-	
-	/*msgTest = {"body":req.body,"session":req.session,"query":req.query};		
-	mq_client.make_request('search_details',msgTest, function(err,results){
-
-		console.log("search_details");
-		console.log(results);
-		if(err){
-			throw err;
-		}
-		else 
-		{							
-			res
-			.status(200)
-			.json(results);
-		}  
-	});*/
+		
+	  });
 });
 
 
 
-//router.get('/search-item', searchController.searchItem);
+
 
 router.get('/search-item', function(req,res){
 	console.log("lets my search-items");
@@ -283,34 +278,40 @@ router.get('/search-item', function(req,res){
 		    		.json(result);
 	    	  }
 	      });
-	  });
-/*	msgTest = {"body":req.body,"session":req.session,"query":req.query};		
-	mq_client.make_request('search_item',msgTest, function(err,results){
-
-		console.log("search_item");
-		console.log(results);
-		if(err){
-			throw err;
-		}
-		else 
-		{						
-			
-			req.session.tempid = result.tempid;
-			res
-			.status(200)
-			.json(results);
-		}  
-	});*/	
+	  });	
 });
 
-router.post('/addtocart',searchController.addToCart);
-router.get('/getcart-details',searchController.getCart);
-router.get('/confirmcart-details',searchController.confirmCart);
 
-router.post('/deleteitem',searchController.deleteFromCart);
-router.post('/pay',searchController.payConfirm);
+router.post('/bid',function(req, res){
+	
 
-router.post('/bid',searchController.saveBid);
+	var option = {
+			ignoredNamespaces : true	
+		};
+	 var url = baseURL+"/Bidding?wsdl";
+	 
+	 
+	  var args = {bidamount:req.body.bidamount,itemid:req.body.itemid,itemname:req.body.itemname,seller:req.body.seller,email:req.session.email};
+	  soap.createClient(url,option, function(err, client) {
+	      client.saveBid(args, function(err, result) {
+	    	  if(result == "200"){
+	    		  	    		  	    		 
+		            	            
+		            res
+		    		.status(200)
+		    		.json(result);
+	    	  }
+	    	  else{
+	    		  
+	    		  res
+		    		.status(401)
+		    		.json(result);
+	    	  }
+	      });
+	  });
+
+});
+
 
 router.post('/cartcardconfirm',function(req, res){
 	
@@ -347,7 +348,6 @@ router.post('/cartcardconfirm',function(req, res){
 });
 
 
-router.post('/sell', controller.storeItem);
 
 router.get('/logout', function (req, res) {
 	logFile.logToFile(req,res,'Action: Logging out!! Bye');
@@ -358,8 +358,6 @@ router.get('/logout', function (req, res) {
 }
 );
 
-//rabbitmq test
-//router.post('/signin',controller.signinvalidate);
 router.post('/signin',function(req,res){
 	console.log("lets take a new route........");
 	
@@ -392,17 +390,16 @@ router.post('/signin',function(req,res){
 	    	  }
 	      });
 	  });
-	
 
 });
 
-//rabbitmq test
+
 router.get('/register', function(req, res, next) {
 	logFile.logToFile(req,res,'Action: Loading register page');
 	  res.render('register', { title: 'Register' });
 	});
 
-//router.post('/register',controller.registerUser);//rabbit
+
 
 router.post('/register',function(req,res){
 	console.log("lets register new user");	
@@ -430,24 +427,7 @@ router.post('/register',function(req,res){
 		    		.json(result);
 	    	  }
 	      });
-	  });
-	/*mq_client.make_request('register_user',msgTest, function(err,results){
-	
-		console.log("lets register new user");
-		console.log(results);
-		if(err){
-			throw err;
-		}
-		else 
-		{				
-			
-			
-			
-			res
-    		.status(200)
-    		.json(results);
-		}  
-	});*/
+	  });	
 });
 
 

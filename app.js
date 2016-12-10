@@ -5,7 +5,6 @@ var favicon = require('serve-favicon');
 var logger = require('morgan');
 var cookieParser = require('cookie-parser');
 var bodyParser = require('body-parser');
-
 var routes = require('./routes/index');
 var users = require('./routes/users');
 
@@ -22,12 +21,13 @@ var app = express();
 var amqp = require('amqp')
 , util = require('util');
 
-var usercredential = require('./services/usercredentials')
-var searchController = require('./services/searchvalidations');
+/*var usercredential = require('./services/usercredentials')
+var searchController = require('./services/searchvalidations');*/
 
 var cnn = amqp.createConnection({url:'amqp://localhost'});
 console.log('+++++++++'+cnn);
-cnn.on('ready', function(){
+
+/*cnn.on('ready', function(){
 	console.log("listening on login_test");
 
 	cnn.queue('login_test', function(q){
@@ -190,7 +190,7 @@ cnn.on('ready', function(){
 	});
 	
 });
-
+*/
 
 app.use(session({secret: 'ssshhhh', 
     saveUninitialized: true,
