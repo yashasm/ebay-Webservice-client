@@ -804,6 +804,8 @@ ebayApp.controller('signincontroller',['$scope','$http','userservice',function($
 				"password":$scope.passwordsign
 		};			
 		
+		console.log("test");
+		console.log(dataval);
 		$http({
 			method : "POST",
 			url : '/signin',

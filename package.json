@@ -26,6 +26,7 @@
     "passport": "^0.3.2",
     "request": "^2.75.0",
     "serve-favicon": "~2.3.0",
-    "should": "^11.1.1"
+    "should": "^11.1.1",
+    "soap": "^0.18.0"
   }
 }
